@@ -1,0 +1,16 @@
+blockquote:before, blockquote:after,
+q:before, q:after {
+    content:'';
+    content:none;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing:0;
+}
+
+/* CSS STYLE BY TAYLOR */
+h1 {
+    font-weight:bold;
+    font-size:3em;
+}
